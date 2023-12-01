@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 93ed93fd363fb4d77868ebf9916e0c72
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 669849efcd4e14d89be2ff7c72ee3daa
+  - enabled: 1
+    path: Assets/Scenes/OutGame.unity
+    guid: b6600fb2ed4994c258a32ef98cd1c548
+  - enabled: 1
+    path: Assets/Scenes/Hakoniwa.unity
+    guid: a1c7234a3850b4862aeeab48f9e254ea
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/Fishing.unity
+    guid: 71548da8815074505aea6c14ed4f537c
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/AutoRun.unity
+    guid: 2fe9601c6f6814760a9d89f8646f4d68
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: c67c8b6e402364e1884e5ef3d2480669
+  - enabled: 1
+    path: Assets/Scenes/Common.unity
+    guid: 4c43ad65dba654abc86dc6896b9174e4
+  - enabled: 1
+    path: Assets/Scenes/Gacha/Gacha.unity
+    guid: 208d531a88bf84c52b680aed3e0adf1f
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 3dd0f65b8abf54584800f5fe3f6ceb5f
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/NeoFishing.unity
+    guid: 4e391ea774da0471b9a75c5386511fe8
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/NeoAutoRun.unity
+    guid: 1f81e3b14790d496db169c876be1eac5
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: a6c5aac3db770426cad96582e761d761
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

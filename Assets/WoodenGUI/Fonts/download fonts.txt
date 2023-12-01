@@ -1,0 +1,3 @@
+Wicked Scary Movie by AJ Paglia https://www.dafont.com/wicked-scary-movie.font
+
+Then set fonts to button prefabs

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fruit
+  - Obstacle
+  - Ground
+  - Air
+  - Furniture
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stage
+    uniqueID: 4133627915
+    locked: 0
+  - name: Wall
+    uniqueID: 1922689693
+    locked: 0
+  - name: Floor
+    uniqueID: 2573290163
+    locked: 0
+  - name: Furniture
+    uniqueID: 2484622599
+    locked: 0
+  - name: Player
+    uniqueID: 4061993223
+    locked: 0
+  - name: Loading
+    uniqueID: 730246003
+    locked: 0
